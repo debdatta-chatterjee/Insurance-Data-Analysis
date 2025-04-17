@@ -47,8 +47,5 @@ The report is hosted on Power BI Service with full interactivity and scheduled u
 Security
 Row-Level Security restricts data visibility based on user roles for data protection.
 
----
 
-### 🔗 Connect With Me
-_For questions or feedback, feel free to reach out._
 
